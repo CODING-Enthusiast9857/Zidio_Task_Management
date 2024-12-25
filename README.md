@@ -1,5 +1,14 @@
 # Task Management Web App
 
+
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![Express.js](https://img.shields.io/badge/Express.js-Backend-red)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-red)
+![Prisma](https://img.shields.io/badge/Prisma-Database-white)
+![License: MIT](https://img.shields.io/badge/License-MIT-violet.svg)
+
 The **Task Management Web App** is a comprehensive tool designed to streamline workflows, enhance team collaboration, and improve overall productivity. With a variety of features, this platform empowers teams to manage tasks efficiently while ensuring secure access and real-time collaboration.
 
 ## Features
