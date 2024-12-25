@@ -44,8 +44,6 @@ Ensure data security with robust authentication measures, allowing only verified
    npm start
    ```
 
-The app will be accessible at `http://localhost:3000`.
-
 ## Usage
 
 1. **Sign Up and Login**: Create an account or log in with your credentials to access the platform.
@@ -78,4 +76,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name](mailto:madhavison06@gmail.com).
+For any inquiries or feedback, please contact [here](mailto:madhavison06@gmail.com).
